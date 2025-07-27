@@ -1,0 +1,6102 @@
+[
+  {
+    "town_id": 304,
+    "x": 42819,
+    "y": 8397,
+    "points": 185800,
+    "name": "Town 304",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 461
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 461,
+      "labour_points": 6931
+    }
+  },
+  {
+    "town_id": 2306,
+    "x": 17027,
+    "y": 20146,
+    "points": 180200,
+    "name": "Town 2306",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 405
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 405,
+      "labour_points": 6091
+    }
+  },
+  {
+    "town_id": 157,
+    "x": 41843,
+    "y": 4658,
+    "points": 176900,
+    "name": "Town 157",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 372
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 372,
+      "labour_points": 5596
+    }
+  },
+  {
+    "town_id": 1229,
+    "x": 22764,
+    "y": 15614,
+    "points": 175700,
+    "name": "Town 1229",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 360
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 360,
+      "labour_points": 5416
+    }
+  },
+  {
+    "town_id": 558,
+    "x": 24848,
+    "y": 14547,
+    "points": 174800,
+    "name": "Town 558",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 351
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 351,
+      "labour_points": 5281
+    }
+  },
+  {
+    "town_id": 2413,
+    "x": 21220,
+    "y": 17340,
+    "points": 171900,
+    "name": "Town 2413",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 322
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 322,
+      "labour_points": 4846
+    }
+  },
+  {
+    "town_id": 2829,
+    "x": 37090,
+    "y": 12504,
+    "points": 171900,
+    "name": "Town 2829",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 322
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 322,
+      "labour_points": 4846
+    }
+  },
+  {
+    "town_id": 891,
+    "x": 18308,
+    "y": 9320,
+    "points": 171700,
+    "name": "Town 891",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 320
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 320,
+      "labour_points": 4816
+    }
+  },
+  {
+    "town_id": 2573,
+    "x": 29474,
+    "y": 7269,
+    "points": 168900,
+    "name": "Town 2573",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 292
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 292,
+      "labour_points": 4396
+    }
+  },
+  {
+    "town_id": 1872,
+    "x": 5342,
+    "y": 6549,
+    "points": 168600,
+    "name": "Town 1872",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 289
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 289,
+      "labour_points": 4351
+    }
+  },
+  {
+    "town_id": 277,
+    "x": 27496,
+    "y": 12057,
+    "points": 167000,
+    "name": "Town 277",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 273
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 273,
+      "labour_points": 4111
+    }
+  },
+  {
+    "town_id": 3045,
+    "x": 43117,
+    "y": 2735,
+    "points": 165700,
+    "name": "Town 3045",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 260
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 260,
+      "labour_points": 3916
+    }
+  },
+  {
+    "town_id": 2569,
+    "x": 29208,
+    "y": 15980,
+    "points": 165000,
+    "name": "Town 2569",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 253
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 253,
+      "labour_points": 3811
+    }
+  },
+  {
+    "town_id": 66,
+    "x": 40245,
+    "y": 16170,
+    "points": 160500,
+    "name": "Town 66",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 208
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 208,
+      "labour_points": 3136
+    }
+  },
+  {
+    "town_id": 1178,
+    "x": 23868,
+    "y": 18732,
+    "points": 159700,
+    "name": "Town 1178",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 200
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 200,
+      "labour_points": 3016
+    }
+  },
+  {
+    "town_id": 1022,
+    "x": 18754,
+    "y": 1460,
+    "points": 158900,
+    "name": "Town 1022",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 192
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 192,
+      "labour_points": 2896
+    }
+  },
+  {
+    "town_id": 2498,
+    "x": 26819,
+    "y": 5186,
+    "points": 157800,
+    "name": "Town 2498",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 181
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 181,
+      "labour_points": 2731
+    }
+  },
+  {
+    "town_id": 2366,
+    "x": 19422,
+    "y": 7138,
+    "points": 155600,
+    "name": "Town 2366",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 159
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 159,
+      "labour_points": 2401
+    }
+  },
+  {
+    "town_id": 3077,
+    "x": 44199,
+    "y": 11253,
+    "points": 154900,
+    "name": "Town 3077",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 152
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 152,
+      "labour_points": 2296
+    }
+  },
+  {
+    "town_id": 2364,
+    "x": 19270,
+    "y": 877,
+    "points": 154200,
+    "name": "Town 2364",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 145
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 145,
+      "labour_points": 2191
+    }
+  },
+  {
+    "town_id": 1720,
+    "x": 1420,
+    "y": 9016,
+    "points": 153300,
+    "name": "Town 1720",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 136
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 136,
+      "labour_points": 2056
+    }
+  },
+  {
+    "town_id": 2386,
+    "x": 20104,
+    "y": 18026,
+    "points": 153000,
+    "name": "Town 2386",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 133
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 133,
+      "labour_points": 2011
+    }
+  },
+  {
+    "town_id": 2630,
+    "x": 31701,
+    "y": 5837,
+    "points": 153000,
+    "name": "Town 2630",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 133
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 133,
+      "labour_points": 2011
+    }
+  },
+  {
+    "town_id": 735,
+    "x": 28875,
+    "y": 4810,
+    "points": 152800,
+    "name": "Town 735",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 131
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 131,
+      "labour_points": 1981
+    }
+  },
+  {
+    "town_id": 2418,
+    "x": 21348,
+    "y": 2249,
+    "points": 151900,
+    "name": "Town 2418",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 122
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 122,
+      "labour_points": 1846
+    }
+  },
+  {
+    "town_id": 1597,
+    "x": 9650,
+    "y": 14742,
+    "points": 151400,
+    "name": "Town 1597",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 117
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 117,
+      "labour_points": 1771
+    }
+  },
+  {
+    "town_id": 823,
+    "x": 23672,
+    "y": 3672,
+    "points": 151100,
+    "name": "Town 823",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 114
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 114,
+      "labour_points": 1726
+    }
+  },
+  {
+    "town_id": 1216,
+    "x": 27327,
+    "y": 7324,
+    "points": 150700,
+    "name": "Town 1216",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 110
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 110,
+      "labour_points": 1666
+    }
+  },
+  {
+    "town_id": 1704,
+    "x": 1145,
+    "y": 6116,
+    "points": 150600,
+    "name": "Town 1704",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 109
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 109,
+      "labour_points": 1651
+    }
+  },
+  {
+    "town_id": 1652,
+    "x": 45239,
+    "y": 20146,
+    "points": 150200,
+    "name": "Town 1652",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 105
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 105,
+      "labour_points": 1591
+    }
+  },
+  {
+    "town_id": 2091,
+    "x": 10567,
+    "y": 13884,
+    "points": 150200,
+    "name": "Town 2091",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 105
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 105,
+      "labour_points": 1591
+    }
+  },
+  {
+    "town_id": 2689,
+    "x": 33033,
+    "y": 12551,
+    "points": 150100,
+    "name": "Town 2689",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 104
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 104,
+      "labour_points": 1576
+    }
+  },
+  {
+    "town_id": 2447,
+    "x": 24194,
+    "y": 5481,
+    "points": 150000,
+    "name": "Town 2447",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 103
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 103,
+      "labour_points": 1561
+    }
+  },
+  {
+    "town_id": 583,
+    "x": 25757,
+    "y": 5780,
+    "points": 149985,
+    "name": "Town 583",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 26
+      },
+      {
+        "name": "Tailor",
+        "stage": 19
+      },
+      {
+        "name": "General store",
+        "stage": 23
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 364
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 364,
+      "labour_points": 5476
+    }
+  },
+  {
+    "town_id": 2500,
+    "x": 26675,
+    "y": 16591,
+    "points": 149500,
+    "name": "Town 2500",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 98
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 98,
+      "labour_points": 1486
+    }
+  },
+  {
+    "town_id": 734,
+    "x": 42548,
+    "y": 15983,
+    "points": 148700,
+    "name": "Town 734",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 90
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 90,
+      "labour_points": 1366
+    }
+  },
+  {
+    "town_id": 2031,
+    "x": 9111,
+    "y": 17158,
+    "points": 148700,
+    "name": "Town 2031",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 90
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 90,
+      "labour_points": 1366
+    }
+  },
+  {
+    "town_id": 3163,
+    "x": 46203,
+    "y": 15806,
+    "points": 148600,
+    "name": "Town 3163",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 89
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 89,
+      "labour_points": 1351
+    }
+  },
+  {
+    "town_id": 1814,
+    "x": 3629,
+    "y": 17789,
+    "points": 148000,
+    "name": "Town 1814",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 83
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 83,
+      "labour_points": 1261
+    }
+  },
+  {
+    "town_id": 2013,
+    "x": 8720,
+    "y": 446,
+    "points": 148000,
+    "name": "Town 2013",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 83
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 83,
+      "labour_points": 1261
+    }
+  },
+  {
+    "town_id": 2537,
+    "x": 28307,
+    "y": 13758,
+    "points": 147900,
+    "name": "Town 2537",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 82
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 82,
+      "labour_points": 1246
+    }
+  },
+  {
+    "town_id": 2579,
+    "x": 29792,
+    "y": 9181,
+    "points": 147400,
+    "name": "Town 2579",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 77
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 77,
+      "labour_points": 1171
+    }
+  },
+  {
+    "town_id": 2746,
+    "x": 34719,
+    "y": 11475,
+    "points": 147200,
+    "name": "Town 2746",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 75
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 75,
+      "labour_points": 1141
+    }
+  },
+  {
+    "town_id": 1651,
+    "x": 4576,
+    "y": 3897,
+    "points": 147100,
+    "name": "Town 1651",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 74
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 74,
+      "labour_points": 1126
+    }
+  },
+  {
+    "town_id": 2539,
+    "x": 28534,
+    "y": 1955,
+    "points": 147100,
+    "name": "Town 2539",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 74
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 74,
+      "labour_points": 1126
+    }
+  },
+  {
+    "town_id": 687,
+    "x": 32910,
+    "y": 14829,
+    "points": 146900,
+    "name": "Town 687",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 72
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 72,
+      "labour_points": 1096
+    }
+  },
+  {
+    "town_id": 1785,
+    "x": 2925,
+    "y": 19947,
+    "points": 146400,
+    "name": "Town 1785",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 67
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 67,
+      "labour_points": 1021
+    }
+  },
+  {
+    "town_id": 2253,
+    "x": 15764,
+    "y": 3709,
+    "points": 146300,
+    "name": "Town 2253",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 66
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 66,
+      "labour_points": 1006
+    }
+  },
+  {
+    "town_id": 3078,
+    "x": 44110,
+    "y": 12579,
+    "points": 145900,
+    "name": "Town 3078",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 62
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 62,
+      "labour_points": 946
+    }
+  },
+  {
+    "town_id": 2229,
+    "x": 15073,
+    "y": 14310,
+    "points": 145700,
+    "name": "Town 2229",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 60
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 60,
+      "labour_points": 916
+    }
+  },
+  {
+    "town_id": 2308,
+    "x": 17294,
+    "y": 4899,
+    "points": 145500,
+    "name": "Town 2308",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 58
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 58,
+      "labour_points": 886
+    }
+  },
+  {
+    "town_id": 64,
+    "x": 23002,
+    "y": 5811,
+    "points": 144981,
+    "name": "Town 64",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 22
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 247
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 247,
+      "labour_points": 3721
+    }
+  },
+  {
+    "town_id": 1712,
+    "x": 1157,
+    "y": 17108,
+    "points": 144900,
+    "name": "Town 1712",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 52
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 52,
+      "labour_points": 796
+    }
+  },
+  {
+    "town_id": 2501,
+    "x": 26857,
+    "y": 18637,
+    "points": 144700,
+    "name": "Town 2501",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 50
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 50,
+      "labour_points": 766
+    }
+  },
+  {
+    "town_id": 2395,
+    "x": 20311,
+    "y": 18592,
+    "points": 144200,
+    "name": "Town 2395",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 45
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 45,
+      "labour_points": 691
+    }
+  },
+  {
+    "town_id": 2235,
+    "x": 15320,
+    "y": 12137,
+    "points": 144052,
+    "name": "Town 2235",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 24
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 59
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 4
+      }
+    ],
+    "church_labour": {
+      "stage": 59,
+      "labour_points": 901
+    }
+  },
+  {
+    "town_id": 2295,
+    "x": 16765,
+    "y": 15156,
+    "points": 143600,
+    "name": "Town 2295",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 39
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 39,
+      "labour_points": 601
+    }
+  },
+  {
+    "town_id": 2568,
+    "x": 29365,
+    "y": 13162,
+    "points": 143600,
+    "name": "Town 2568",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 39
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 39,
+      "labour_points": 601
+    }
+  },
+  {
+    "town_id": 1889,
+    "x": 5419,
+    "y": 11325,
+    "points": 143100,
+    "name": "Town 1889",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 34
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 34,
+      "labour_points": 526
+    }
+  },
+  {
+    "town_id": 2810,
+    "x": 36513,
+    "y": 1378,
+    "points": 142700,
+    "name": "Town 2810",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 30
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 30,
+      "labour_points": 466
+    }
+  },
+  {
+    "town_id": 2079,
+    "x": 10436,
+    "y": 11524,
+    "points": 142500,
+    "name": "Town 2079",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 28
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 28,
+      "labour_points": 436
+    }
+  },
+  {
+    "town_id": 1289,
+    "x": 19213,
+    "y": 3200,
+    "points": 142300,
+    "name": "Town 1289",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 26
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 26,
+      "labour_points": 406
+    }
+  },
+  {
+    "town_id": 2687,
+    "x": 33033,
+    "y": 9173,
+    "points": 141900,
+    "name": "Town 2687",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 22
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 22,
+      "labour_points": 346
+    }
+  },
+  {
+    "town_id": 2236,
+    "x": 15229,
+    "y": 14046,
+    "points": 141700,
+    "name": "Town 2236",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 20
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 20,
+      "labour_points": 316
+    }
+  },
+  {
+    "town_id": 2339,
+    "x": 18209,
+    "y": 15874,
+    "points": 141700,
+    "name": "Town 2339",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 20
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 20,
+      "labour_points": 316
+    }
+  },
+  {
+    "town_id": 2039,
+    "x": 9379,
+    "y": 8725,
+    "points": 141400,
+    "name": "Town 2039",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 17
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 17,
+      "labour_points": 271
+    }
+  },
+  {
+    "town_id": 2243,
+    "x": 15489,
+    "y": 7690,
+    "points": 139800,
+    "name": "Town 2243",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 1
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 1,
+      "labour_points": 31
+    }
+  },
+  {
+    "town_id": 2702,
+    "x": 33696,
+    "y": 3890,
+    "points": 136744,
+    "name": "Town 2702",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 28
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 4
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 4,
+      "labour_points": 76
+    }
+  },
+  {
+    "town_id": 552,
+    "x": 19653,
+    "y": 13398,
+    "points": 136286,
+    "name": "Town 552",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 28
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 24
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 25
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 25,
+      "labour_points": 391
+    }
+  },
+  {
+    "town_id": 3076,
+    "x": 44052,
+    "y": 10768,
+    "points": 135104,
+    "name": "Town 3076",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 22
+      },
+      {
+        "name": "General store",
+        "stage": 24
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 17
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 17,
+      "labour_points": 271
+    }
+  },
+  {
+    "town_id": 2959,
+    "x": 40457,
+    "y": 16944,
+    "points": 133893,
+    "name": "Town 2959",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 23
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 239
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 239,
+      "labour_points": 3601
+    }
+  },
+  {
+    "town_id": 2697,
+    "x": 33316,
+    "y": 13723,
+    "points": 133311,
+    "name": "Town 2697",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 7
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 1
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 26
+      },
+      {
+        "name": "Sheriff",
+        "stage": 4
+      },
+      {
+        "name": "Cinema",
+        "stage": 1
+      }
+    ],
+    "church_labour": {
+      "stage": 26,
+      "labour_points": 406
+    }
+  },
+  {
+    "town_id": 2245,
+    "x": 15371,
+    "y": 9222,
+    "points": 131930,
+    "name": "Town 2245",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 26
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 33
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 33,
+      "labour_points": 511
+    }
+  },
+  {
+    "town_id": 36,
+    "x": 44543,
+    "y": 11769,
+    "points": 130743,
+    "name": "Town 36",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 20
+      },
+      {
+        "name": "General store",
+        "stage": 20
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 126
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 126,
+      "labour_points": 1906
+    }
+  },
+  {
+    "town_id": 474,
+    "x": 17086,
+    "y": 6113,
+    "points": 129099,
+    "name": "Town 474",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 28
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 19
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 79
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 79,
+      "labour_points": 1201
+    }
+  },
+  {
+    "town_id": 487,
+    "x": 18956,
+    "y": 9222,
+    "points": 128837,
+    "name": "Town 487",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 130
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 130,
+      "labour_points": 1966
+    }
+  },
+  {
+    "town_id": 2219,
+    "x": 14675,
+    "y": 14994,
+    "points": 128764,
+    "name": "Town 2219",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 25
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 25
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 17
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 17,
+      "labour_points": 271
+    }
+  },
+  {
+    "town_id": 254,
+    "x": 342,
+    "y": 20121,
+    "points": 123076,
+    "name": "Town 254",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 26
+      },
+      {
+        "name": "Tailor",
+        "stage": 20
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 263
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 263,
+      "labour_points": 3961
+    }
+  },
+  {
+    "town_id": 2081,
+    "x": 10285,
+    "y": 14874,
+    "points": 123001,
+    "name": "Town 2081",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 25
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 25,
+      "labour_points": 391
+    }
+  },
+  {
+    "town_id": 2546,
+    "x": 28772,
+    "y": 1670,
+    "points": 120451,
+    "name": "Town 2546",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 29
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 21
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 103
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 103,
+      "labour_points": 1561
+    }
+  },
+  {
+    "town_id": 597,
+    "x": 3568,
+    "y": 14699,
+    "points": 117790,
+    "name": "Town 597",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 24
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 43
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 43,
+      "labour_points": 661
+    }
+  },
+  {
+    "town_id": 813,
+    "x": 25236,
+    "y": 18323,
+    "points": 117304,
+    "name": "Town 813",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 26
+      },
+      {
+        "name": "Tailor",
+        "stage": 21
+      },
+      {
+        "name": "General store",
+        "stage": 20
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 54
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 54,
+      "labour_points": 826
+    }
+  },
+  {
+    "town_id": 65,
+    "x": 27604,
+    "y": 11467,
+    "points": 117009,
+    "name": "Town 65",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 25
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 215
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 215,
+      "labour_points": 3241
+    }
+  },
+  {
+    "town_id": 1439,
+    "x": 22413,
+    "y": 17877,
+    "points": 110793,
+    "name": "Glück Auf",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 30
+      },
+      {
+        "name": "Tailor",
+        "stage": 22
+      },
+      {
+        "name": "General store",
+        "stage": 10
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 36
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 36,
+      "labour_points": 556
+    }
+  },
+  {
+    "town_id": 1834,
+    "x": 4106,
+    "y": 9246,
+    "points": 110058,
+    "name": "Town 1834",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 25
+      },
+      {
+        "name": "Tailor",
+        "stage": 21
+      },
+      {
+        "name": "General store",
+        "stage": 20
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 35
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 35,
+      "labour_points": 541
+    }
+  },
+  {
+    "town_id": 853,
+    "x": 3644,
+    "y": 9211,
+    "points": 108986,
+    "name": "Town 853",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 24
+      },
+      {
+        "name": "Tailor",
+        "stage": 21
+      },
+      {
+        "name": "General store",
+        "stage": 21
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 24
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 24,
+      "labour_points": 376
+    }
+  },
+  {
+    "town_id": 1408,
+    "x": 41303,
+    "y": 3797,
+    "points": 107798,
+    "name": "Town 1408",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 26
+      },
+      {
+        "name": "Tailor",
+        "stage": 18
+      },
+      {
+        "name": "General store",
+        "stage": 18
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 56
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 56,
+      "labour_points": 856
+    }
+  },
+  {
+    "town_id": 1805,
+    "x": 3822,
+    "y": 2176,
+    "points": 106088,
+    "name": "Town 1805",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 22
+      },
+      {
+        "name": "Tailor",
+        "stage": 18
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 215
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 215,
+      "labour_points": 3241
+    }
+  },
+  {
+    "town_id": 500,
+    "x": 23299,
+    "y": 5270,
+    "points": 104132,
+    "name": "Town 500",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 22
+      },
+      {
+        "name": "Tailor",
+        "stage": 21
+      },
+      {
+        "name": "General store",
+        "stage": 21
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 12
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 12,
+      "labour_points": 196
+    }
+  },
+  {
+    "town_id": 1806,
+    "x": 3734,
+    "y": 3331,
+    "points": 103952,
+    "name": "Town 1806",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 23
+      },
+      {
+        "name": "Tailor",
+        "stage": 20
+      },
+      {
+        "name": "General store",
+        "stage": 21
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 16
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 16,
+      "labour_points": 256
+    }
+  },
+  {
+    "town_id": 1198,
+    "x": 9383,
+    "y": 16816,
+    "points": 103400,
+    "name": "Town 1198",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 302
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 302,
+      "labour_points": 4546
+    }
+  },
+  {
+    "town_id": 977,
+    "x": 32815,
+    "y": 6467,
+    "points": 101900,
+    "name": "Town 977",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 287
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 287,
+      "labour_points": 4321
+    }
+  },
+  {
+    "town_id": 592,
+    "x": 8522,
+    "y": 19596,
+    "points": 101700,
+    "name": "Town 592",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 285
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 285,
+      "labour_points": 4291
+    }
+  },
+  {
+    "town_id": 1945,
+    "x": 6916,
+    "y": 10916,
+    "points": 97200,
+    "name": "Town 1945",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 240
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 240,
+      "labour_points": 3616
+    }
+  },
+  {
+    "town_id": 2768,
+    "x": 35178,
+    "y": 11355,
+    "points": 97100,
+    "name": "Town 2768",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 239
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 239,
+      "labour_points": 3601
+    }
+  },
+  {
+    "town_id": 2486,
+    "x": 26137,
+    "y": 1052,
+    "points": 96900,
+    "name": "Town 2486",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 237
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 237,
+      "labour_points": 3571
+    }
+  },
+  {
+    "town_id": 1568,
+    "x": 2594,
+    "y": 281,
+    "points": 95800,
+    "name": "Town 1568",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 226
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 226,
+      "labour_points": 3406
+    }
+  },
+  {
+    "town_id": 2504,
+    "x": 27091,
+    "y": 14879,
+    "points": 95727,
+    "name": "Town 2504",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 27
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 42
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 42,
+      "labour_points": 646
+    }
+  },
+  {
+    "town_id": 1502,
+    "x": 30519,
+    "y": 11950,
+    "points": 95400,
+    "name": "Town 1502",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 15
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 222
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 222,
+      "labour_points": 3346
+    }
+  },
+  {
+    "town_id": 3122,
+    "x": 45111,
+    "y": 17539,
+    "points": 95398,
+    "name": "Town 3122",
+    "buildings": [
+      {
+        "name": "Town hall",
+        "stage": 10
+      },
+      {
+        "name": "Market",
+        "stage": 10
+      },
+      {
+        "name": "Residences",
+        "stage": 10
+      },
+      {
+        "name": "Bank",
+        "stage": 10
+      },
+      {
+        "name": "Hotel",
+        "stage": 5
+      },
+      {
+        "name": "Gunsmith",
+        "stage": 20
+      },
+      {
+        "name": "Tailor",
+        "stage": 16
+      },
+      {
+        "name": "General store",
+        "stage": 15
+      },
+      {
+        "name": "Mortician",
+        "stage": 1
+      },
+      {
+        "name": "Church",
+        "stage": 197
+      },
+      {
+        "name": "Sheriff",
+        "stage": 5
+      },
+      {
+        "name": "Cinema",
+        "stage": 5
+      }
+    ],
+    "church_labour": {
+      "stage": 197,
+      "labour_points": 2971
+    }
+  }
+]
